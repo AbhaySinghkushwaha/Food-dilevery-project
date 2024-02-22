@@ -9,18 +9,10 @@ The Food Project is designed to be scalable and easy to maintain, with a clean a
 Overall, the Food Project is a powerful and feature-rich solution for anyone looking to start an online food ordering business or add food ordering functionality to an existing website.
 
 
-## Demo
-https://soufianemjr.pythonanywhere.com/
-
-
-
 ## ✨ How to use it
 
 ```bash
-$ # Get the code
-$ git clone https://github.com/Soufiane-Majdar/Food_Project.git
-$ cd Food_Project
-$
+
 $ # Virtualenv modules installation (Linux)
 $ virtualenv env
 $ source env/bin/activate
